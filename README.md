@@ -6,7 +6,6 @@
 
     calculating heat transfer for basic grid using FEM method
     ability to change amount of integral points
-    saving results to txt format
 
 # Usage
 
